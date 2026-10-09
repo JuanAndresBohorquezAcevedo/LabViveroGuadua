@@ -76,7 +76,7 @@ strong {
   color: var(--color-principal);
 }
 
-/* Estilos de clase && ID */
+/* Estilos de class && ID */
 
 .descripcion {
   background-color: var(--color-secundario);
@@ -89,7 +89,7 @@ strong {
   padding: 20px;
 }
 
-/* Estado del vivero */
+/* Estado apertura */
 
 .abierto {
   color: var(--color-abierto);
@@ -101,7 +101,7 @@ strong {
   background-color: var(--fondo-cerrado);
 }
 
-/* Estado de las plantas */
+/* Estado plantas */
 
 .agotado {
   color: var(--color-agotado);
@@ -111,5 +111,5 @@ strong {
 /* Estilos de pseudoclases */
 
 nav a:hover {
-  color: var(--color-acento);
+  color: var(--color-secundario);
 }
